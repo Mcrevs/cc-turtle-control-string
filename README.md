@@ -81,14 +81,14 @@ Trim a flat surface of a cliff in a zig zag pattern that is exactly 10 blocks ta
 ```
 Dig a tunnle sutible for mining, placing a torch every 10 blocks and building a cobblestone bridge across air gaps.
 
-## instalation
+## Instalation
 
 Run the following command in the terminal.
 ```
-TODO
+wget https://raw.githubusercontent.com/Mcrevs/cc-turtle-control-string/main/tcs.lua
 ```
 
-## implementation
+## Implementation
 
 Below is a simple script that can be used to run an action.
 ```lua
